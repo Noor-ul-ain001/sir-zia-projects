@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "publication_year": 2009,
+        "genre": "Memoir",
+        "read_status": "Completed",
+        "image": null
+    },
+    {
+        "title": "Thinking Fast and Slow",
+        "author": "Daniel Kahneman",
+        "publication_year": 2011,
+        "genre": "Psycology",
+        "read_status": "Not Read",
+        "image": null
+    }
+]
